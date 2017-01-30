@@ -1,0 +1,4 @@
+{
+	"main" : "start.js",
+	"description" : "electron-remote-experiment"
+}
